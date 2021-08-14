@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>鷐噷</title>
   
-  
+  <subtitle>鷐 噷</subtitle>
   <link href="https://chenxi1123.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenxi1123.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://chenxi1123.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Chen Xin</name>
     
   </author>
   
